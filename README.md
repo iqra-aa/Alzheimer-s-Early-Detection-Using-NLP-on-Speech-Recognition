@@ -9,20 +9,6 @@ The system analyzes speech recordings, converts spoken language into text, and e
 
 The project combines **speech recognition, NLP, machine learning, deep learning, and a React-based web interface** to provide an interactive platform for speech-based analysis.
 
-## Table of Contents
-
-* [Project Overview](#project-overview)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Features](#features)
-* [Dataset](#dataset)
-* [Model](#model)
-* [Results](#results)
-* [Contributing](#contributing)
-* [License](#license)
-* [Acknowledgments](#acknowledgments)
-* [Website Interface](#website-interface)
-
 
 
 ## Features
@@ -97,17 +83,7 @@ Model performance was evaluated using classification metrics including:
 * F1 Score
 * ROC-AUC
 
-## Results
 
-The project achieved an overall reported accuracy of **84%**.
-
-### ROC-AUC
-
-The ROC-AUC curve for the **Naive Bayes SVC (NB_SVC)** model is shown below:
-
-![NB-SVC ROC](images/NB-SVC_ROC.jpg)
-
-## Contributing
 ## License
 
 This project is licensed under the **MIT License**.
