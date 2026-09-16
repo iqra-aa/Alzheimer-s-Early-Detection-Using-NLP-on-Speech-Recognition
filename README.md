@@ -102,21 +102,6 @@ Thanks to **Dr. Brian MacWhinney** and the DementiaBank project for providing ac
 
 Thanks to **AssemblyAI** for providing the speech-to-text API and SDK used to convert audio recordings into text.
 
-## Website Interface
-
-The project includes a web-based interface for interacting with the speech analysis system.
-
-### Home Page
-
-![Home Page](images/homepage.png)
-
-### Analysis Page
-
-![Analysis Page](images/analysispage.png)
-
-### Results Page
-
-![Results Page](images/resultspage.png)
 
 ## Author
 
